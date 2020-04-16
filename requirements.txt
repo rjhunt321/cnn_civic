@@ -1,0 +1,7 @@
+# for python tests
+requests
+python-settings
+
+# for simple api, used to launch individual tests, or test lists manually
+Flask
+mysql-connector-python
